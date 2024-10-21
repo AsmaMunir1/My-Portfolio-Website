@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { CiMail } from "react-icons/ci";
 import { IoIosPhonePortrait } from "react-icons/io";
 
@@ -43,7 +43,7 @@ const Contact = () => {
             </div>
         </div>
     </div>
-  )
-}
+  );
+};
 
 export default Contact

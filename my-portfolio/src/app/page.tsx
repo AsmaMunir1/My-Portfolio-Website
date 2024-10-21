@@ -31,9 +31,7 @@ export default function Home() {
     <Skills />
     <Contact />
     <About />
-    
-    
-    
+  
   </main>
   );
 }
