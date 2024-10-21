@@ -29,9 +29,8 @@ export default function Home() {
     <Hero />
     <Projects />
     <Skills />
-    <Contact />
     <About />
-  
+    <Contact />
   </main>
-  );
-}
+);
+};
